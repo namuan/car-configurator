@@ -13,12 +13,6 @@ An immersive, user-centric car configurator built with React and TypeScript that
 
 ## Screenshots
 
-![Home Page](assets/home-page.png)
-*Landing page with featured car models*
-
-![Model Selection](assets/model-selection.png)
-*Browse and filter available car models*
-
 ![Configurator](assets/configurator.png)
 *Real-time customization with 3D preview*
 
